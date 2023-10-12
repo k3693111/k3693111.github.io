@@ -1,0 +1,79 @@
+k3693111.github.io/java/Ex1_1.html  변수1 학년,이름
+k3693111.github.io/java/Ex1_2.html  변수2 자동 초기값 확인
+k3693111.github.io/java/Ex1_3.html  변수3 로컬 변수 초기화 안할시 에러
+k3693111.github.io/java/Ex1_4.html  변수4 변수 타입별 테스트1
+k3693111.github.io/java/Ex1_5.html  변수5 변수 타입별 테스트2
+k3693111.github.io/java/Ex1_6.html  변수6 int 오버플로우 및 float int로 강제적 형변환
+k3693111.github.io/java/Ex1_7.html  변수7 
+k3693111.github.io/java/Ex1_8.html  변수8 
+k3693111.github.io/java/Ex1_9.html  변수9 
+k3693111.github.io/java/Ex2_1.html  연산자1 
+k3693111.github.io/java/Ex2_2.html  연산자2
+k3693111.github.io/java/Ex2_3.html  연산자3 
+k3693111.github.io/java/Ex2_4.html  연산자4 
+k3693111.github.io/java/Ex2_5.html  연산자5
+k3693111.github.io/java/Ex2_6.html  연산자6
+k3693111.github.io/java/Ex2_7.html  연산자7 
+k3693111.github.io/java/Ex2_8.html  연산자8
+k3693111.github.io/java/Ex3_1.html  if1
+k3693111.github.io/java/Ex3_2.html  if2
+k3693111.github.io/java/Ex3_3.html  if3
+k3693111.github.io/java/Ex3_4.html  if4
+k3693111.github.io/java/Ex3_5.html  swith1
+k3693111.github.io/java/Ex3_6.html  swith2
+k3693111.github.io/java/Ex3_7.html  swith3
+k3693111.github.io/java/Ex4_1.html while
+k3693111.github.io/java/Ex4_2.html do while
+k3693111.github.io/java/Ex4_3.html  repetition
+k3693111.github.io/java/Ex4_4.html  break
+k3693111.github.io/java/Ex4_5.html continue
+k3693111.github.io/java/Ex5_1.html  배열
+k3693111.github.io/java/Ex5_2.html  다차원배열
+k3693111.github.io/java/Ex5_3.html  요소수 다른 다차원배열
+k3693111.github.io/java/Ex5_4.html  정렬
+k3693111.github.io/java/Ex6_5.html 더하기
+k3693111.github.io/java/Ex6_6.html 더하기 함수
+k3693111.github.io/java/Ex6_7.html Ex6_7 빼기
+k3693111.github.io/java/Ex6_8.html Ex6_8 빼기 함수
+k3693111.github.io/java/Ex6_9.html Ex6_9 곱하기
+k3693111.github.io/java/Ex6_10.html Ex6_10 곱하기 함
+k3693111.github.io/java/Ex6_11.html Ex6_11 4각형 면적
+k3693111.github.io/java/Ex6_12.html Ex6_12 4각형 면적 함수
+k3693111.github.io/java/Ex6_13.html Ex6_13 3각형
+k3693111.github.io/java/Ex6_14.html Ex6_14 3각형 면적함 함수
+k3693111.github.io/java/Ex6_15.html Ex6_15 거리
+k3693111.github.io/java/Ex6_16.html Ex6_16 거리 함수
+k3693111.github.io/java/Ex7_0.html Ex7_0 NameX
+k3693111.github.io/java/Ex7_1.html Ex7_1 NavySoldier1
+k3693111.github.io/java/Ex7_2.html Ex7_2 NavySoldier2
+k3693111.github.io/java/Ex7_3.html Ex7_3 dist3
+k3693111.github.io/java/Ex7_4.html dist4
+k3693111.github.io/java/Ex7_6_2.htmlEx7_6_2 dist
+k3693111.github.io/java/Ex7_5.html vadd5
+k3693111.github.io/java/Ex7_6.html vadd
+k3693111.github.io/java/Ex7_9.html  stud
+k3693111.github.io/java/Ex8_9.html animal
+k3693111.github.io/java/Ex8_10.html animal상속
+k3693111.github.io/java/Ex8_11.html animal3
+
+3주차 Homework
+ 증감연산
+ boolean 변수
+ 연산자 활용
+ 논리 결과값
+ if 활용(학점출력)
+ if 활용 (특정문자열 포함)
+ Male(equalsIgnoreCase 사용)
+ Male(switch/case 사용)
+ 1~100 더하기(while)
+ 1~100 더하기(do while)
+4주차 Homework
+ 반복
+ 1~100더하기
+ 무한루프탈출
+ 삼각형 출력
+ 원 출력
+ 소수 찾기
+ String 함수
+5주차 Homework
+k3693111.github.io/java/homework1.html 곱하기,4각형 면적,3각형 면적
